@@ -1,2 +1,2 @@
 # rendez-vous_sante_qc
-Prendre rendez-vous dans une clinique à proximité
+Prendre un rendez-vous dans une clinique à proximité avec votre carte RAMQ
